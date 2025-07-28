@@ -1,7 +1,7 @@
 {
   "legislative_session": "38th",
-  "identifier": "B 13-38",
-  "title": "AN ACT TO ADD A NEW CHAPTER 98 TO DIVISION 4 TITLE 10 GUAM CODE ANNOTATED RELATIVE TO ESTABLISHING A PUBLIC-PRIVATE PARTNERSHIP FOR GUAM\u2019S PUBLIC HOSPITAL.",
+  "identifier": "B 17-38",
+  "title": "AN ACT TO AMEND \u00a7 1913 OF CHAPTER 19, TITLE 1, GUAM CODE ANNOTATED, RELATIVE TO PROCEDURES FOR IMPLEMENTATION OF AUDIT RECOMMENDATIONS BY AGENCIES.",
   "from_organization": "~{\"classification\": \"legislature\"}",
   "classification": [
     "bill"
@@ -13,21 +13,45 @@
   "actions": [],
   "sponsorships": [
     {
-      "name": "Therese M. Terlaje",
+      "name": "Sabina Flores Perez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Sabina Flores Perez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Telo T. Taitague",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Telo T. Taitague\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Therese M. Terlaje",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
       "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Therese M. Terlaje\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Barnett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Chris Barnett\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "Bill No. 13-38 (COR)",
+      "note": "Bill No. 17-38 (COR)",
       "links": [
         {
-          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/Bill No. 13-38 (COR).pdf",
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/Bill No. 17-38 (COR).pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -50,6 +74,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/territory:gu"
   },
-  "scraped_at": "2025-07-28T17:36:27+00:00",
-  "_id": "640e6f8c-6bd9-11f0-b49e-86b55f1a49cf"
+  "scraped_at": "2025-07-28T18:45:36+00:00",
+  "_id": "0cfa0918-6be3-11f0-88cf-5a0ba2cd42b1"
 }
